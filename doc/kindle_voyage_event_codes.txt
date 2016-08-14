@@ -1,0 +1,16 @@
+KINDLE VOYAGE BUTTON KEY CODES
+
+Top-left / Top-right: 65365
+Bottom-left / Bottom-right: 65365
+
+CLICK BUTTON CODES:
+
+Button press - 1
+Coordinates - 542, 696
+Button release - 1
+
+SWIPE BUTTON CODES
+UP: 3
+DOWN: 4
+LEFT: 5
+RIGHT: 6
